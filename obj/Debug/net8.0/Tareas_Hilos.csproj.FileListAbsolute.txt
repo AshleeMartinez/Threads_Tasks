@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\Tareas_Hilos\Tareas_Hilos\bin\Debug\net8.0\Tareas_Hilos.exe
+C:\Users\usuario\source\repos\Tareas_Hilos\Tareas_Hilos\bin\Debug\net8.0\Tareas_Hilos.deps.json
+C:\Users\usuario\source\repos\Tareas_Hilos\Tareas_Hilos\bin\Debug\net8.0\Tareas_Hilos.runtimeconfig.json
+C:\Users\usuario\source\repos\Tareas_Hilos\Tareas_Hilos\bin\Debug\net8.0\Tareas_Hilos.dll
+C:\Users\usuario\source\repos\Tareas_Hilos\Tareas_Hilos\bin\Debug\net8.0\Tareas_Hilos.pdb
+C:\Users\usuario\source\repos\Tareas_Hilos\Tareas_Hilos\obj\Debug\net8.0\Tareas_Hilos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Tareas_Hilos\Tareas_Hilos\obj\Debug\net8.0\Tareas_Hilos.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Tareas_Hilos\Tareas_Hilos\obj\Debug\net8.0\Tareas_Hilos.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Tareas_Hilos\Tareas_Hilos\obj\Debug\net8.0\Tareas_Hilos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Tareas_Hilos\Tareas_Hilos\obj\Debug\net8.0\Tareas_Hilos.dll
+C:\Users\usuario\source\repos\Tareas_Hilos\Tareas_Hilos\obj\Debug\net8.0\refint\Tareas_Hilos.dll
+C:\Users\usuario\source\repos\Tareas_Hilos\Tareas_Hilos\obj\Debug\net8.0\Tareas_Hilos.pdb
+C:\Users\usuario\source\repos\Tareas_Hilos\Tareas_Hilos\obj\Debug\net8.0\Tareas_Hilos.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Tareas_Hilos\Tareas_Hilos\obj\Debug\net8.0\ref\Tareas_Hilos.dll
